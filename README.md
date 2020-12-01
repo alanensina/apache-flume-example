@@ -5,6 +5,7 @@ Nesse repositório, iremos seguir o exemplo básico do Apache Flume que está di
 - Java 8+
 - Apache Flume 1.9.0
 - Netcat
+
 _* Configurar as variáveis de ambiente para o Java e o Apache Flume_
 
 # Arquivo de configuração do agente Flume:
